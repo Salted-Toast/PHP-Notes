@@ -39,9 +39,9 @@
 
     $people = [
         [
-            'firstName' => 'Morrison',
-            'lastName' => 'Page',
-            'email' => 'morrison@gmail.com',
+            'firstName' => 'Salted',
+            'lastName' => 'Toast',
+            'email' => 'Salted-Toast@gmail.com',
         ],
         [
             'firstName' => 'sdlfhg',
