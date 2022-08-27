@@ -22,7 +22,7 @@
     
     \*--------------------------------------*/
 
-    $name = "Morrison"; // Str
+    $name = "Salted-Toast"; // Str
     $age = 17; // Int
     $hasKids = false; // Bool outputs as 1/0
     $cashOnHand = 35.50; // Float
