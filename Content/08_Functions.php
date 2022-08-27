@@ -19,7 +19,7 @@
     } // Semicolon not needed at end of func
 
     // Call function bellow where is has been defined
-    registeruser('morrison@gmail.com','morrison'); // Perams must be pressent in func call as Args
+    registeruser('Salted-Toast@gmail.com','Salted-Toast'); // Perams must be pressent in func call as Args
 
     // Create an annonymous function (no name set as a var)
     // Also shortened for speed

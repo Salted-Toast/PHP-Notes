@@ -49,7 +49,7 @@
 
     // Formatted Strings - useful when you have outside data
     // Different specifiers for different data types
-    printf('%s is a %s', 'Morrison', 'nice guy');
+    printf('%s is a %s', 'Salted-Toast', 'nice guy');
     printf('1 + 1 = %f', 1 + 1); // float
 
 
