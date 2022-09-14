@@ -12,7 +12,7 @@
 ?>
 
 <!-- Pass data through a link -->
-<a href="<?php echo $_SERVER['PHP_SELF']; ?>?username=Brad">Link</a>
+<a href="<?php echo $_SERVER['PHP_SELF']; ?>?username=Salted-Toast">Link</a>
 
 
 <br><br>
